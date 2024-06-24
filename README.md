@@ -6,5 +6,3 @@ Discord Rich Presence Integration for FiveM Server.
 This Lua script is designed to integrate a FiveM (GTA V multiplayer mod) server with Discord Rich Presence, providing detailed status information on a player's Discord profile. 
 
 You can change all displayed information in the client.lua
-
-If you need help/discover bugs feel free to contact me by writing to my discord profile kris_3854
